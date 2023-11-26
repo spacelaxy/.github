@@ -15,6 +15,6 @@
 ## 🔗 Links Uteis
 
 - ⭐ Discord: [Acessar Discord](https://discord.gg/spacelaxy)
-- 🪐 Linkedin: [Acessar Linkedin](www.linkedin.com/company/spacelaxy/)
+- 🪐 Linkedin: [Acessar Linkedin](https://linkedin.com/company/spacelaxy/)
 - 📸 Youtube: [Acessar Youtube](https://www.youtube.com/@spacelaxy/)
 - ✅ Website: [Nao disponivel ainda](https://spacelaxy.com/)
