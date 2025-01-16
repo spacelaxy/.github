@@ -30,19 +30,6 @@ Hello Spacelaxy Team,
 I’ve identified a vulnerability in system X that can be exploited as follows...
 ```
 
-### Shared
-Collaborative projects are often managed through our Discord community, where contributors are granted controlled permissions to work on the code privately. Once the code is polished, it is released to the public.
-
----
-
-# 🚀 Featured Projects
-
-- [Spraxium](https://github.com/spacelaxy/spraxium)  
-  Spraxium is a modular framework for Discord.JS designed to simplify bot creation for Discord. Built on SOLID principles and high modularity, it enables developers to build bots in an organized and efficient way.
-
-```js
-```
-
 ## 🌐 Social Media
 Stay up-to-date with all our latest developments and connect with us on social media:
 - **LinkedIn**: [Spacelaxy on LinkedIn](https://www.linkedin.com/company/spacelaxy)
