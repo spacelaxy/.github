@@ -1,38 +1,28 @@
-![image (25)](https://github.com/user-attachments/assets/a48c6285-7c41-42aa-ac54-6fc11b3c7e22)
+![Spacelaxy open source banner](https://github.com/user-attachments/assets/a48c6285-7c41-42aa-ac54-6fc11b3c7e22)
 
-Hello! I'm Henry from Spacelaxy, and it's a pleasure to welcome you. If you're here, it's because you, like us, believe in the power of technology to turn ideas into reality.
+### Source station
+Welcome to Spacelaxy’s open source central. Here we post our frameworks, libraries, open source projects, and also various other content we produce on social media or even in our official communities. You’re free
+to contribute whenever you want and, if you’d like, join our programming community on Discord. Over there, we keep everything well organized around the projects so you can follow everything properly. But if not, we’ll stay right here anyway.
 
-At Spacelaxy, we foster a collaborative philosophy, believing in the strength of community-driven projects. We constantly seek contributions, share ideas, and value feedback. Our team is dedicated to building tools that simplify processes and empower developers to achieve more, efficiently and effectively.
+### Our mission
+Spacelaxy was born as a startup focused on providing high quality and standard-driven services at reasonable costs, always aiming for solutions and innovations that are often outdated in the current market. We are always building something, even if it takes time, because excellence has its price. We are not a company that delivers buggy services just to fix them later. We create a lot of things focused on the developer audience, but we are not limited to it, and who knows, maybe in the future you’ll see even more cool stuff :) Originally founded in Brazil, Spacelaxy is now headquartered in Delaware, USA.
 
----
-
-# 🌱 Contribution
-
-We offer different types of contribution methods across our projects, tailored to your preferred style of collaboration. Here are some options you can choose from:
-
-### Classic
-The traditional way of contributing via GitHub:
-
-1. Fork the project.
-2. Make the necessary changes.
-3. Open a pull request for our moderators to review and decide whether to merge it.
-
-You can also open an issue to report bugs or use discussions to suggest enhancements.
-
-### Security
-For any security-related issues, please avoid exposing vulnerabilities publicly. Send an email to `opensource@spacelaxy.com`, providing detailed information about the issue, and we’ll address it as quickly as possible.
-
-```plaintext
-Subject: [Security] Vulnerability Report
-
-Hello Spacelaxy Team,
-
-I’ve identified a vulnerability in system X that can be exploited as follows...
-```
-
-## 🌐 Social Media
-Stay up-to-date with all our latest developments and connect with us on social media:
+### Get in touch
+We are not very active outside of LinkedIn and Discord, but you can still follow us on all our other social media platforms. Feel free to share and spread our mission even further!
 - **LinkedIn**: [Spacelaxy on LinkedIn](https://www.linkedin.com/company/spacelaxy)
 - **GitHub**: [Spacelaxy on GitHub](https://github.com/spacelaxy)
-- **Twitter**: [@spacelaxy](https://twitter.com/spacelaxy)
+- **Twitter**: [Spacelaxy on Twitter](https://twitter.com/spacelaxyy)
 - **Discord**: [Spacelaxy Discord Community](https://discord.gg/spacelaxy)
+
+You can also follow our official developers and founders on social media.
+
+| Name           | Role              | LinkedIn                                  | GitHub                                 |
+|----------------|-------------------|-------------------------------------------|----------------------------------------|
+| Henry Thierry  | CEO & Founder     | [Follow on LinkedIn](https://www.linkedin.com/in/henrythierry) | [Follow on GitHub](https://github.com/henrythierrydev) |
+| Arthur Leal  | Front end Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/arthur-leal-9a8ab1315/) | [Follow on GitHub](https://github.com/ArthurDevLeal) |
+| Jorge Henrique  | Back End Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/jorge-henrique-2200b424b/) | [Follow on GitHub](https://github.com/jhrick) |
+| Pedro lucas  | Tech lead     | [Follow on LinkedIn](https://www.linkedin.com/in/pedro-paix%C3%A3o/) | [Follow on GitHub](https://github.com/DEVSmoker) |
+| Lury Gabriel  | Back End Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/iury-gabriel/) | [Follow on GitHub](https://github.com/Iury-Gabriel) |
+
+### Join the Team
+You can become a member of the team! If you're interested, feel free to join our Discord community. We post official job openings there, which will soon be moved to our official website. All team members listed above have been with us for a long time. We usually only add members to this list after around 4 months of active work at Spacelaxy. After all, everyone deserves some form of recognition, especially those who help us with these perfectionist projects.
