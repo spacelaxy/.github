@@ -23,6 +23,9 @@ You can also follow our official developers and founders on social media.
 | Jorge Henrique  | Back End Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/jorge-henrique-2200b424b/) | [Follow on GitHub](https://github.com/jhrick) |
 | Pedro lucas  | Tech lead     | [Follow on LinkedIn](https://www.linkedin.com/in/pedro-paix%C3%A3o/) | [Follow on GitHub](https://github.com/DEVSmoker) |
 | Lury Gabriel  | Back End Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/iury-gabriel/) | [Follow on GitHub](https://github.com/Iury-Gabriel) |
+| Jean C  | Content Creator    | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/unkv0wn) |
+| Lucas Moraes  | Security Engineer     | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/Yyax13) |
+
 
 ### Join the Team
 You can become a member of the team! If you're interested, feel free to join our Discord community. We post official job openings there, which will soon be moved to our official website. All team members listed above have been with us for a long time. We usually only add members to this list after around 4 months of active work at Spacelaxy. After all, everyone deserves some form of recognition, especially those who help us with these perfectionist projects.
