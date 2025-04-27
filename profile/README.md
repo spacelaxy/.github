@@ -24,6 +24,8 @@ You can also follow our official developers and founders on social media.
 | Pedro lucas  | Tech lead     | [Follow on LinkedIn](https://www.linkedin.com/in/pedro-paix%C3%A3o/) | [Follow on GitHub](https://github.com/DEVSmoker) |
 | Jean C  | Content Creator    | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/unkv0wn) |
 | Lucas Moraes  | Security Engineer     | [Follow on LinkedIn](https://www.linkedin.com/in/lucas-claro-396003360/) | [Follow on GitHub](https://github.com/Yyax13) |
+| Gabriel Fernando  | Internal Relations     | [Follow on LinkedIn](https://www.linkedin.com/in/gabriel-fernando-31630b286/) | [Follow on GitHub](https://github.com/SkyDevZz) |
+
 
 
 ### Join the Team
