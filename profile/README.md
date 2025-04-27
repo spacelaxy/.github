@@ -19,10 +19,9 @@ You can also follow our official developers and founders on social media.
 | Name           | Role              | LinkedIn                                  | GitHub                                 |
 |----------------|-------------------|-------------------------------------------|----------------------------------------|
 | Henry Thierry  | CEO & Founder     | [Follow on LinkedIn](https://www.linkedin.com/in/henrythierry) | [Follow on GitHub](https://github.com/henrythierrydev) |
+| Nathan Luiz  | CEO & Co-Founder     | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/spacelaxy) |
 | Arthur Leal  | Front end Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/arthur-leal-9a8ab1315/) | [Follow on GitHub](https://github.com/ArthurDevLeal) |
-| Jorge Henrique  | Back End Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/jorge-henrique-2200b424b/) | [Follow on GitHub](https://github.com/jhrick) |
 | Pedro lucas  | Tech lead     | [Follow on LinkedIn](https://www.linkedin.com/in/pedro-paix%C3%A3o/) | [Follow on GitHub](https://github.com/DEVSmoker) |
-| Lury Gabriel  | Back End Developer     | [Follow on LinkedIn](https://www.linkedin.com/in/iury-gabriel/) | [Follow on GitHub](https://github.com/Iury-Gabriel) |
 | Jean C  | Content Creator    | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/unkv0wn) |
 | Lucas Moraes  | Security Engineer     | [Follow on LinkedIn](https://www.linkedin.com/in/lucas-claro-396003360/) | [Follow on GitHub](https://github.com/Yyax13) |
 
