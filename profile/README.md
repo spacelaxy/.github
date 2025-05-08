@@ -22,6 +22,7 @@ You can also follow our official developers and founders on social media.
 | Nathan Luiz  | CEO & Co-Founder     | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/spacelaxy) |
 | Pedro lucas  | Tech lead     | [Follow on LinkedIn](https://www.linkedin.com/in/pedro-paix%C3%A3o/) | [Follow on GitHub](https://github.com/DEVSmoker) |
 | Jean C  | Content Creator    | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/unkv0wn) |
+| Isaac Bessa | Itern | [Follow on LinkedIn](https://www.linkedin.com/in/isaac-bessa-044a14321/) | [Follow on GitHub](https://github.com/isaacmacb) |
 
 
 
