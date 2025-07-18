@@ -23,7 +23,6 @@ You can also follow our official developers and founders on social media.
 | Cristian Rodrigues  | Back End Developer | [Follow on LinkedIn](https://www.linkedin.com/in/cristian-rodrigues-548ab4250/) | [Follow on GitHub](https://github.com/CristianRsouza) |
 | Pedro lucas  | Tech lead     | [Follow on LinkedIn](https://www.linkedin.com/in/pedro-paix%C3%A3o/) | [Follow on GitHub](https://github.com/DEVSmoker) |
 | Jean C  | Content Creator    | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/unkv0wn) |
-| Isaac Bessa | Itern | [Follow on LinkedIn](https://www.linkedin.com/in/isaac-bessa-044a14321/) | [Follow on GitHub](https://github.com/isaacmacb) |
 | Amelia | Front End Developer | [Follow on LinkedIn](https://www.linkedin.com/company/spacelaxy) | [Follow on GitHub](https://github.com/iamyourwitch) |
 
 ### Join the Team
