@@ -12,7 +12,7 @@ We are not very active outside of LinkedIn and Discord, but you can still follow
 - **LinkedIn**: [Spacelaxy on LinkedIn](https://www.linkedin.com/company/spacelaxy)
 - **GitHub**: [Spacelaxy on GitHub](https://github.com/spacelaxy)
 - **Twitter**: [Spacelaxy on Twitter](https://twitter.com/spacelaxyy)
-- **Discord**: [Spacelaxy Discord Community](https://discord.gg/spacelaxy)
+- **Discord**: [Spacelaxy Discord Community](https://social.spacelaxy.com/discord)
 
 You can also follow our official developers and founders on social media.
 
