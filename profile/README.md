@@ -20,3 +20,5 @@ You can become a member of the team! If you're interested, feel free to join our
 SPRAXIUM IS OUT NOW! TRY OUR NEW PROJECT: 
 - https://github.com/spraxium
 - https://spraxium.com
+
+News coming in September 5, 2026
