@@ -6,9 +6,9 @@
 
 ---
 
-### *Spraxium*
+### Spraxium
 
-*A TypeScript framework for Discord bots, built on discord.js. It provides modules, dependency injection, decorators, and lifecycle hooks, with optional packages for HTTP APIs, scheduling, translations, and more.*
+*Spraxium is an open-source TypeScript framework for Discord bots, built on discord.js and developed by Spacelaxy. It uses modules, dependency injection, decorators, lifecycle hooks, and reusable services to help organize larger bots. These are patterns commonly used in backend development, adapted for Discord projects. Optional packages cover HTTP APIs, scheduling, internationalization, logging, components, webhooks, CLI tooling, and sharding. You can add them as needed, depending on what you're building.*
 
 | *Platform* | *Link* |
 | --- | --- |
