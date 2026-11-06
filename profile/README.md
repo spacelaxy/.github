@@ -1,22 +1,57 @@
 ![Spacelaxy open source banner](https://github.com/user-attachments/assets/a48c6285-7c41-42aa-ac54-6fc11b3c7e22)
 
-### Source station
-Welcome to Spacelaxy’s open source central. Here we post our frameworks, libraries, open source projects, and also various other content we produce on social media or even in our official communities. You’re free
-to contribute whenever you want and, if you’d like, join our programming community on Discord. Over there, we keep everything well organized around the projects so you can follow everything properly. But if not, we’ll stay right here anyway.
+### About
 
-### Our mission
-Spacelaxy was born as a startup focused on providing high-quality, standard-driven services at reasonable costs, always aiming to bring solutions and innovations to a market that is often stuck with outdated practices. We're always building something, even if it takes time, because excellence comes at a price. We're not the kind of company that ships buggy services just to fix them later. We create a lot of things focused on the developer community, but we’re not limited to it, and who knows, maybe in the future you’ll see even more cool stuff :) Originally founded in Brazil, Spacelaxy is now headquartered in Lexington, Kentucky, USA.
+*We're Spacelaxy, a company founded in Brazil and now based in Lexington, Kentucky. We work on software, digital products, and open-source projects. Much of what we build comes from our work with development and the programming community: frameworks, editor extensions, libraries, and tools. We also produce programming content, sharing tutorials, experiments, and the code behind them here on GitHub. We're currently expanding Spacelaxy Studios, our creative side focused on video editing, motion design, and audiovisual production.*
 
-### Get in touch
-We are not very active outside of LinkedIn and Discord, but you can still follow us on all our other social media platforms. Feel free to share and spread our mission even further!
-- **LinkedIn**: [Spacelaxy on LinkedIn](https://www.linkedin.com/company/spacelaxy)
-- **GitHub**: [Spacelaxy on GitHub](https://github.com/spacelaxy)
-- **Twitter**: [Spacelaxy on Twitter](https://twitter.com/spacelaxyy)
-- **Discord**: [Spacelaxy Discord Community](https://social.spacelaxy.com/discord) (under maintence)
+---
 
-### Join the Team
-You can become a member of the team! If you're interested, feel free to join our Discord community. We post official job openings there, which will soon be moved to our official website. All team members listed above have been with us for a long time. We usually only add members to this list after around 4 months of active work at Spacelaxy. After all, everyone deserves some form of recognition, especially those who help us with these perfectionist projects.
+### *Spraxium*
 
-SPRAXIUM IS OUT NOW! TRY OUR NEW PROJECT: 
-- https://github.com/spraxium
-- https://spraxium.com
+*A TypeScript framework for Discord bots, built on discord.js. It provides modules, dependency injection, decorators, and lifecycle hooks, with optional packages for HTTP APIs, scheduling, translations, and more.*
+
+| *Platform* | *Link* |
+| --- | --- |
+| *GitHub* | *[spraxium/spraxium](https://github.com/spraxium/spraxium)* |
+| *Website & docs* | *[spraxium.com](https://spraxium.com)* |
+
+---
+
+### *Comment Lens*
+
+*A VS Code extension for working with code comments. It adds customizable highlighting, comment boxes, and dividers, and can generate Markdown documentation from formats such as JSDoc, JavaDoc, and XML documentation.*
+
+| *Platform* | *Link* |
+| --- | --- |
+| *GitHub* | *[spacelaxy/comment-lens](https://github.com/spacelaxy/comment-lens)* |
+| *VS Code Marketplace* | *[Comment Lens](https://marketplace.visualstudio.com/items?itemName=spacelaxy.spacelaxy-comment-lens)* |
+| *Open VSX* | *[Comment Lens](https://open-vsx.org/extension/spacelaxy/spacelaxy-comment-lens)* |
+
+---
+
+### *Darkwaves*
+
+*A collection of dark themes for VS Code, with palettes ranging from muted grays to brighter colors.*
+
+| *Platform* | *Link* |
+| --- | --- |
+| *GitHub* | *[spacelaxy/darkwaves](https://github.com/spacelaxy/darkwaves)* |
+| *VS Code Marketplace* | *[Darkwaves](https://marketplace.visualstudio.com/items?itemName=spacelaxy.spacelaxy-darkwaves)* |
+| *Open VSX* | *[Darkwaves](https://open-vsx.org/extension/spacelaxy/spacelaxy-darkwaves)* |
+
+---
+
+### *Contributing*
+
+*Bug reports, documentation fixes, and code contributions are welcome. Open an issue or pull request in the relevant repository to get involved.*
+
+---
+
+### *Find us*
+
+| *Platform* | *Link* |
+| --- | --- |
+| *LinkedIn* | *[Spacelaxy](https://www.linkedin.com/company/spacelaxy)* |
+| *GitHub* | *[spacelaxy](https://github.com/spacelaxy)* |
+| *X* | *[@spacelaxyy](https://x.com/spacelaxyy)* |
+| *Discord* | *[Community](https://social.spacelaxy.com/discord) currently under maintenance* |
