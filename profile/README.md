@@ -17,7 +17,7 @@
 
 ---
 
-### *Comment Lens*
+### Comment Lens
 
 *A VS Code extension for working with code comments. It adds customizable highlighting, comment boxes, and dividers, and can generate Markdown documentation from formats such as JSDoc, JavaDoc, and XML documentation.*
 
@@ -29,7 +29,7 @@
 
 ---
 
-### *Darkwaves*
+### Darkwaves
 
 *A collection of dark themes for VS Code, with palettes ranging from muted grays to brighter colors.*
 
@@ -41,7 +41,7 @@
 
 ---
 
-### *Contributing*
+### Contributing
 
 *Bug reports, documentation fixes, and code contributions are welcome. Open an issue or pull request in the relevant repository to get involved.*
 
